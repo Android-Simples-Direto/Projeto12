@@ -1,12 +1,12 @@
-# Shoes App
+# Aplicativo Shoes
 
-![Shoes App Cover Image](https://github.com/Bytesthetic/android-shoes-app/blob/main/Tumb.png)
+![Imagem de capa do aplicativo Shoes]
 
-## Description
-The Shoes App is an Android application UI part designed to help users browse and view shoes online. It provides a user-friendly interface for viewing various options.
+## Descrição
+O aplicativo Shoes é uma parte da interface do usuário do aplicativo Android projetada para ajudar os usuários a navegar e visualizar sapatos online. Ele fornece uma interface amigável para visualizar várias opções.
 
-## Technologies Used
+## Tecnologias usadas
 - **Jetpack Compose**
 
-## Language Used
+## Linguagem usada
 - **Kotlin**
